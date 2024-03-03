@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Rasterizer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gly/101/My_work/3/cmake-build-debug-ubuntu"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gly/101/My_work/3/cmake-build-debug-ubuntu"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gly/101/My_work/3/cmake-build-debug-ubuntu"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rasterizer">
+				<Option output="/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Rasterizer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gly/101/My_work/3/cmake-build-debug-ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gly/101/My_work/3/./include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 Rasterizer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rasterizer/fast">
+				<Option output="/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Rasterizer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gly/101/My_work/3/cmake-build-debug-ubuntu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gly/101/My_work/3/./include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 Rasterizer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gly/101/My_work/3/cmake-build-debug-ubuntu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gly/101/My_work/3/OBJ_Loader.h">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/Shader.hpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/Texture.cpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/Texture.hpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/Triangle.cpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/Triangle.hpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/global.hpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/main.cpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/rasterizer.cpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/rasterizer.hpp">
+			<Option target="Rasterizer"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/gly/101/My_work/3/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
