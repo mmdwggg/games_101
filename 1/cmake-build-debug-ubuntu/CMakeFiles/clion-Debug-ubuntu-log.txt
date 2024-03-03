@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/gly/101/My_work/1 -B /home/gly/101/My_work/1/cmake-build-debug-ubuntu
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gly/101/My_work/1/cmake-build-debug-ubuntu
